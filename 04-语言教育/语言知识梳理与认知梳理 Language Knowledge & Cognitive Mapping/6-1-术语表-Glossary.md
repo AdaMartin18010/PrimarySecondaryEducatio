@@ -25,4 +25,4 @@
 - 学习方法 Learning Methods：高效掌握知识的策略。Strategies for efficient learning.
 - 元认知 Metacognition：对认知过程的觉察和调控。Awareness and regulation of cognitive processes.
 - 合作学习 Cooperative Learning：通过合作完成学习任务。Learning tasks completed through cooperation.
-- 终身学习 Lifelong Learning：持续不断的自主学习。Ongoing, self-motivated learning. 
+- 终身学习 Lifelong Learning：持续不断的自主学习。Ongoing, self-motivated learning.
