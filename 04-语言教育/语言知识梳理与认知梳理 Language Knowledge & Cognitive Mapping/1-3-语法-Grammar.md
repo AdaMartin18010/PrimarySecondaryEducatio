@@ -20,6 +20,7 @@
 - 语法现象与常见错误
 
 ### 国际标准对齐（International Standards Alignment）
+
 - 参考中国语文、英语课程标准、CEFR、Cambridge、IB等，强调语法理解与实际运用能力。
 - Refer to Chinese/English curriculum standards, CEFR, Cambridge, IB, etc., emphasizing grammar understanding and practical usage.
 
@@ -40,6 +41,7 @@
    - Correct common grammar mistakes, such as subject-verb disagreement.
 
 ## 关键术语（Key Terms）
+
 - 语法 Grammar
 - 句法 Syntax
 - 形态 Morphology
@@ -51,4 +53,4 @@
 - 语气 Mood
 - 数 Number
 - 格 Case
-- 错误分析 Error Analysis 
+- 错误分析 Error Analysis
