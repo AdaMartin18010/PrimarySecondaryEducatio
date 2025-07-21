@@ -17,6 +17,7 @@
 - 阅读与写作、口语、听力的关系
 
 ### 国际标准对齐（International Standards Alignment）
+
 - 参考中国语文/英语课程标准、CEFR、Cambridge、IB等，强调阅读理解、批判性思维与文本分析能力。
 - Refer to Chinese/English curriculum standards, CEFR, Cambridge, IB, etc., emphasizing reading comprehension, critical thinking, and text analysis skills.
 
@@ -37,6 +38,7 @@
    - Write a summary or review based on the reading material.
 
 ## 关键术语（Key Terms）
+
 - 阅读 Reading
 - 阅读理解 Reading Comprehension
 - 精读 Intensive Reading
@@ -46,4 +48,4 @@
 - 评价 Evaluation
 - 文本类型 Text Type
 - 批判性思维 Critical Thinking
-- 摘要 Summary 
+- 摘要 Summary
