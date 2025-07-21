@@ -17,6 +17,7 @@
 - 综合性评价与能力提升
 
 ### 国际标准对齐（International Standards Alignment）
+
 - 参考中国语文/英语课程标准、CEFR、Cambridge、IB等，强调技能整合、实际应用与跨学科能力。
 - Refer to Chinese/English curriculum standards, CEFR, Cambridge, IB, etc., emphasizing skill integration, practical application, and interdisciplinary competence.
 
@@ -37,10 +38,11 @@
    - Complete an integrated task using all skills, such as planning a class event and writing a report.
 
 ## 关键术语（Key Terms）
+
 - 综合技能 Integrated Skills
 - 任务型 Task-based
 - 情境模拟 Simulation
 - 跨学科 Interdisciplinary
 - 迁移 Transfer
 - 反思 Reflection
-- 能力提升 Competence Improvement 
+- 能力提升 Competence Improvement
