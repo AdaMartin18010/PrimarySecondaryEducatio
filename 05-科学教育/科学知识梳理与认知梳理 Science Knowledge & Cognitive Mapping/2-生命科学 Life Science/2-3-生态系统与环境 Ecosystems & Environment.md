@@ -5,7 +5,8 @@
 - 中文：生态系统是由生物（动植物、微生物）与其所处的非生物环境（阳光、水、空气、土壤等）共同组成的功能整体。
 - English: An ecosystem is a functional unit formed by living organisms (plants, animals, microorganisms) and their non-living environment (sunlight, water, air, soil, etc.).
 
-**主要组成 Main Components**
+**主要组成 Main Components**:
+
 - 生产者 Producers（如绿色植物）
 - 消费者 Consumers（如动物）
 - 分解者 Decomposers（如细菌、真菌）
@@ -68,4 +69,4 @@ graph TD
 
 > 生态系统与环境的理解有助于学生认识人与自然的关系，培养可持续发展的意识。
 
-Understanding ecosystems and the environment helps students recognize the relationship between humans and nature, fostering awareness of sustainable development. 
+Understanding ecosystems and the environment helps students recognize the relationship between humans and nature, fostering awareness of sustainable development.

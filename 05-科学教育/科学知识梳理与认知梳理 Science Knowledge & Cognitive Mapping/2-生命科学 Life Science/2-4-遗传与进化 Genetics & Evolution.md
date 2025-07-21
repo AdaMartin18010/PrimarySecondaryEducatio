@@ -56,4 +56,4 @@ graph TD
 
 > 遗传与进化的知识帮助学生理解生物多样性和生命的延续，是生命科学的重要组成部分。
 
-Knowledge of genetics and evolution helps students understand biodiversity and the continuity of life, which are essential parts of life science. 
+Knowledge of genetics and evolution helps students understand biodiversity and the continuity of life, which are essential parts of life science.
