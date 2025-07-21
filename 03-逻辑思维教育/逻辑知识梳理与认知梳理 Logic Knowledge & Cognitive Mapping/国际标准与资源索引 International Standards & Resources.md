@@ -29,8 +29,33 @@
 - PhET（科学与逻辑仿真）
 - Google Jamboard（协作白板）
 
+## 形式化论证与证明相关国际标准与资源 International Standards & Resources for Formal Argumentation & Proof
+
+### 国际课程标准 International Curriculum Standards
+
+- IB MYP Mathematics: Emphasizes reasoning, proof, and formal argumentation
+- Cambridge Lower Secondary Mathematics: Focuses on logical reasoning and proof
+- 美国Common Core: Mathematical Practice 3（Construct viable arguments and critique the reasoning of others）
+- 中国义务教育数学课程标准：强调推理与证明能力
+
+### 权威资源 Authoritative Resources
+
+- ProofWiki（<https://proofwiki.org/）>
+- Khan Academy Logic & Proofs
+- Open Logic Project（<https://openlogicproject.org/）>
+- Coq、Lean等定理证明器官网
+
+### 数字化平台 Digital Platforms
+
+- GeoGebra（<https://www.geogebra.org/）>
+- PhET Interactive Simulations（<https://phet.colorado.edu/）>
+- Argument Mapping Tools（如Kialo、Rationale）
+
 ---
 
 > 以上资源有助于逻辑与思维教育内容的开发、教学与国际对比，建议定期查阅与更新。
 
 These resources support the development, teaching, and international comparison of logic and thinking education content. Regular review and updates are recommended.
+
+> 推荐结合国际标准与权威资源，持续优化形式化论证与证明的教学与学习。
+It is recommended to combine international standards and authoritative resources to continuously optimize the teaching and learning of formal argumentation and proof.

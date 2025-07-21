@@ -37,8 +37,20 @@
 - 跟踪国际标准动态
 - 鼓励创新与最佳实践分享
 
+## 形式化论证与证明团队协作建议 Team Collaboration for Formal Argumentation & Proof
+
+- 内容开发 Content Development：分配专人负责形式化论证与证明案例、活动、资源的开发。
+- Assign dedicated members to develop cases, activities, and resources for formal argumentation and proof.
+
+- 教学实施 Teaching Implementation：由有经验教师主导形式化推理、证明教学，组织教研与公开课。
+- Experienced teachers lead formal reasoning and proof teaching, organize workshops and open classes.
+
+- 数字化资源建设 Digital Resource Development：技术支持团队负责数字化工具、可视化模板、互动课件的开发与维护。
+- Technical team develops and maintains digital tools, visualization templates, and interactive courseware.
+
+- 评价与反馈 Evaluation & Feedback：设专人收集教师、学生、家长反馈，定期优化内容与方法。
+- Assign members to collect feedback from teachers, students, and parents, and regularly optimize content and methods.
+
 ---
-
-> 团队协作是高质量逻辑知识梳理与认知梳理项目的保障。
-
-Teamwork is the guarantee of high-quality Logic Knowledge & Cognitive Mapping project.
+> 团队协作与分工有助于高效推进形式化论证与证明相关内容的持续建设。
+Teamwork and clear role assignment help efficiently advance the continuous development of formal argumentation and proof content.

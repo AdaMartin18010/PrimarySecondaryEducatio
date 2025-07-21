@@ -40,3 +40,48 @@
 > 如有其他问题，欢迎随时反馈，团队将持续优化与完善内容。
 
 For other questions, please feel free to provide feedback. The team will continue to optimize and improve the content.
+
+## 形式化论证与证明相关常见问题 FAQ on Formal Argumentation & Proof
+
+### Q1: 形式化证明和一般证明有什么区别？
+
+A1: 形式化证明强调用符号化、规范化的逻辑语言和推理规则，步骤严密、可验证；一般证明可能更注重直观和语言表达。
+
+Q1: What is the difference between formal proof and general proof?
+A1: Formal proof uses symbolic, standardized logical language and inference rules, with rigorous, verifiable steps; general proof may focus more on intuition and natural language.
+
+---
+
+### Q2: 小学生/初中生能学会形式化论证和证明吗？
+
+A2: 可以。可从生活语言、简单命题、真值表等入手，逐步过渡到符号化和复杂推理。
+
+Q2: Can primary/junior secondary students learn formal argumentation and proof?
+A2: Yes. Start with daily language, simple propositions, and truth tables, then gradually move to symbolic and complex reasoning.
+
+---
+
+### Q3: 形式化证明教学有哪些有效方法？
+
+A3: 结合案例、可视化工具、分层推进、跨学科项目，注重实践和趣味性。
+
+Q3: What are effective methods for teaching formal proof?
+A3: Use cases, visualization tools, tiered progression, interdisciplinary projects, and focus on practice and engagement.
+
+---
+
+### Q4: 学生常见困难有哪些？如何应对？
+
+A4: 难以理解符号化、推理链条长、缺乏兴趣。建议用生活案例、图表、互动活动、数字化工具辅助。
+
+Q4: What are common student difficulties? How to address them?
+A4: Difficulty with symbols, long reasoning chains, lack of interest. Use real-life cases, diagrams, interactive activities, and digital tools for support.
+
+---
+
+### Q5: 家长如何支持孩子学习形式化论证与证明？
+
+A5: 鼓励表达思考过程、参与家庭逻辑游戏、关注孩子的成长记录和作品展示。
+
+Q5: How can parents support their children in learning formal argumentation and proof?
+A5: Encourage expressing thinking processes, participate in family logic games, and pay attention to growth records and work showcases.
