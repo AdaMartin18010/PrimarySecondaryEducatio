@@ -202,7 +202,7 @@ This module will be recursively expanded, integrating international textbooks an
 - 例题：证据的可靠性判断（Assessing reliability of evidence）
   - 法国/挪威教材：Evaluate whether the evidence provided is sufficient and relevant to support the claim.
 
-#### 3. 案例与活动 Cases & Activities
+#### 3. 1案例与活动 Cases & Activities
 
 - 美国：批判性思维训练题（Critical thinking exercises on news articles and advertisements）
 - 英国：小组辩论并分析对方论证中的谬误（Debate and fallacy analysis）
@@ -211,7 +211,7 @@ This module will be recursively expanded, integrating international textbooks an
 - 法国：证据评估小组讨论（Group discussion on evaluating evidence）
 - 挪威：批判性思维在社会问题分析中的应用（Applying critical thinking to social issues）
 
-#### 4. 能力训练 Skills Training
+#### 4. 1能力训练 Skills Training
 
 - 判断题：下列哪些属于逻辑谬误？
 - 开放性问题：请举例说明一个你在生活中遇到的谬误，并分析其影响。
@@ -383,7 +383,7 @@ This module will be recursively expanded, integrating international textbooks an
 
 ### 10.6. 创造性思维拓展国际化递归扩展 Expanding Creative Thinking: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.6.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **创造性思维的定义 Definition of Creative Thinking**
   - 美国：Creative thinking is the ability to generate new ideas, solutions, and approaches by looking at problems from different perspectives.
@@ -399,7 +399,7 @@ This module will be recursively expanded, integrating international textbooks an
 - **跨学科联想 Interdisciplinary Association**
   - 美国/英国：Connecting ideas across different subjects to create new insights and solutions.
 
-#### 2. 推理与论证 Reasoning & Argumentation
+#### 10.6.2. 推理与论证 Reasoning & Argumentation
 
 - 例题：头脑风暴解决实际问题（Brainstorming to solve real-world problems）
   - 美国/英国教材：Encourage students to list as many solutions as possible to a given challenge.
@@ -410,7 +410,7 @@ This module will be recursively expanded, integrating international textbooks an
 - 例题：跨学科创新案例分析（Interdisciplinary innovation case analysis）
   - 法国/挪威教材：Analyze examples where knowledge from different fields is combined to solve problems.
 
-#### 3. 案例与活动 Cases & Activities
+#### 10.6.3. 案例与活动 Cases & Activities
 
 - 美国：头脑风暴活动（Brainstorming sessions on school improvement）
 - 英国：思维导图创意竞赛（Mind mapping creativity contest）
@@ -419,7 +419,7 @@ This module will be recursively expanded, integrating international textbooks an
 - 法国：艺术与科学结合的创意活动（Creative activities combining art and science）
 - 挪威：生活难题创新解决方案展示（Presenting creative solutions to everyday problems）
 
-#### 4. 能力训练 Skills Training
+#### 10.6.4. 能力训练 Skills Training
 
 - 判断题：下列哪些属于创造性思维的表现？
 - 开放性问题：请举例说明你曾经用创新方法解决过的问题。
@@ -434,7 +434,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.7. 科学与数学中的应用国际化递归扩展 Application in Science & Mathematics: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.7.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **科学的定义 Definition of Science**
   - 美国：Science is the systematic study of the structure and behavior of the physical and natural world through observation and experiment.
@@ -451,7 +451,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **元认知 Metacognition**
   - 美国/英国：Metacognition is the awareness and understanding of one’s own thought processes, especially in learning and problem-solving.
 
-#### 2. 推理与论证 Reasoning & Argumentation
+#### 10.7.2. 推理与论证 Reasoning & Argumentation
 
 - 例题：如何判断一个科学结论的有效性（How to evaluate the validity of a scientific conclusion）
   - 美国/英国教材：Check for evidence, reproducibility, and logical reasoning.
@@ -462,7 +462,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 例题：科学与数学中的提问与论证（Questioning and argumentation in science and math）
   - 法国/挪威教材：Encourage students to ask “why” and “how” questions and support answers with reasoning.
 
-#### 3. 案例与活动 Cases & Activities
+#### 10.7.3. 案例与活动 Cases & Activities
 
 - 美国：科学实验设计与结果分析（Designing and analyzing science experiments）
 - 英国：数学证明竞赛（Mathematical proof competitions）
@@ -471,7 +471,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：科学与数学跨学科项目（Interdisciplinary science and math projects）
 - 挪威：元认知反思日志（Metacognitive reflection journals）
 
-#### 4. 能力训练 Skills Training
+#### 10.7.4. 能力训练 Skills Training
 
 - 判断题：下列哪些属于科学方法的应用？哪些属于数学证明的步骤？
 - 开放性问题：请举例说明你在科学或数学学习中遇到的一个需要论证的问题，并描述你的思考过程。
@@ -486,7 +486,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.8. 国际趋势说明国际化递归扩展 International Trend: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.8.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **国际趋势的定义 Definition of International Trend**
   - 美国：International trend refers to the prevailing directions and developments in education, science, and philosophy observed across multiple countries.
@@ -523,7 +523,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.9. 哲学课程国际案例递归扩展 Philosophy Curriculum International Cases: Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.9.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **哲学课程的定义 Definition of Philosophy Curriculum**
   - 美国：Philosophy curriculum introduces students to fundamental questions about existence, knowledge, values, and reasoning, often through discussion and debate.
@@ -533,7 +533,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **课程目标 Curriculum Objectives**
   - 美国/英国：Develop critical, creative, and ethical thinking; foster open-mindedness and reasoned argumentation.
 
-#### 2. 国际案例 International Cases
+#### 10.9.2. 国际案例 International Cases
 
 - 法国：初中哲学启蒙课程，内容涵盖逻辑、伦理、科学哲学，强调思辨与论证能力（French junior secondary philosophy courses covering logic, ethics, philosophy of science, emphasizing critical and argumentative skills）
 - 英国：批判性思维与伦理课程，注重讨论社会热点与道德困境（Critical thinking and ethics courses focusing on social issues and moral dilemmas）
@@ -542,7 +542,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 挪威：社会与公民教育中的哲学讨论（Philosophical discussions in social and citizenship education）
 - 美国：Philosophy for Children（P4C）项目，通过故事和问题引导学生思考（Philosophy for Children (P4C) program using stories and questions to guide thinking）
 
-#### 3. 案例与活动 Cases & Activities
+#### 10.9.3. 案例与活动 Cases & Activities
 
 - 法国：小组辩论“什么是正义？”（Group debate: What is justice?）
 - 英国：分析社会热点事件中的伦理问题（Analyzing ethical issues in current events）
@@ -551,7 +551,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 挪威：生活中的道德判断案例分析（Case analysis of moral judgment in daily life）
 - 美国：P4C故事讨论与哲学圈（P4C story discussions and philosophy circles）
 
-#### 4. 能力训练 Skills Training
+#### 10.9.4. 能力训练 Skills Training
 
 - 判断题：下列哪些属于哲学课程的核心目标？
 - 开放性问题：请描述你理想中的哲学课堂活动，并说明理由。
@@ -566,7 +566,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.10. 元认知与学习策略国际化递归扩展 Metacognition & Learning Strategies: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.10.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **元认知的定义 Definition of Metacognition**
   - 美国：Metacognition is the awareness and understanding of one’s own thought processes, including the ability to monitor, control, and plan one’s learning.
@@ -579,7 +579,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **自我调节学习 Self-regulated Learning**
   - 美国/英国：Self-regulated learning involves setting goals, monitoring progress, and adjusting strategies to achieve learning objectives.
 
-#### 2. 案例与活动 Cases & Activities
+#### 10.10.2. 案例与活动 Cases & Activities
 
 - 美国：学习日志与反思（Learning journals and reflection activities）
 - 英国：自我监控与目标设定训练（Self-monitoring and goal-setting exercises）
@@ -588,7 +588,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：学习过程自我评估活动（Self-assessment activities for learning processes）
 - 挪威：问题解决中的元认知反思（Metacognitive reflection in problem-solving）
 
-#### 3. 能力训练 Skills Training
+#### 10.10.3. 能力训练 Skills Training
 
 - 判断题：下列哪些属于元认知活动？哪些属于一般学习活动？
 - 开放性问题：请描述你在学习中如何调整自己的策略以取得更好效果。
@@ -603,7 +603,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.11. 哲学与思辨在生活中的应用国际化递归扩展 Philosophy & Critical Thinking in Daily Life: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.11.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **生活中的哲学应用 Application of Philosophy in Daily Life**
   - 美国：Philosophy helps individuals make reasoned decisions, analyze ethical dilemmas, and reflect on personal values in everyday situations.
@@ -613,7 +613,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **思辨能力的现实意义 Practical Significance of Critical Thinking**
   - 美国/英国：Critical thinking enables people to evaluate information, avoid being misled, and solve problems effectively in real-world contexts.
 
-#### 2. 案例与活动 Cases & Activities
+#### 10.11.2. 案例与活动 Cases & Activities
 
 - 美国：分析新闻报道中的观点与偏见（Analyzing perspectives and biases in news reports）
 - 英国：日常生活中的道德困境讨论（Discussing moral dilemmas in daily life）
@@ -622,7 +622,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：生活中的价值观反思活动（Reflection on values in daily life）
 - 挪威：社会热点问题的批判性讨论（Critical discussion of social issues）
 
-#### 3. 能力训练 Skills Training
+#### 10.11.3. 能力训练 Skills Training
 
 - 判断题：下列哪些属于哲学与思辨在生活中的实际应用？
 - 开放性问题：请举例说明你在生活中如何用哲学或批判性思维解决问题。
@@ -637,7 +637,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.12. 哲学与思辨的数字化与可视化国际化递归扩展 Digitalization & Visualization of Philosophy & Critical Thinking: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.12.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **数字化学习的定义 Definition of Digital Learning**
   - 美国：Digital learning involves the use of technology, such as computers and online resources, to enhance the teaching and learning of philosophical and critical thinking skills.
@@ -650,7 +650,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **数字化资源 Digital Resources**
   - 美国/英国：Digital resources for philosophy and critical thinking include online debate platforms, simulation games, and collaborative discussion forums.
 
-#### 2. 案例与活动 Cases & Activities
+#### 10.12.2. 案例与活动 Cases & Activities
 
 - 美国：使用思维导图软件梳理哲学概念（Using mind mapping software to organize philosophical concepts）
 - 英国：在线辩论平台进行批判性思维训练（Critical thinking training on online debate platforms）
@@ -659,7 +659,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：可视化工具辅助哲学小组讨论（Using visualization tools in group discussions）
 - 挪威：数字化协作平台上的哲学项目（Philosophy projects on digital collaboration platforms）
 
-#### 3. 能力训练 Skills Training
+#### 10.12.3. 能力训练 Skills Training
 
 - 判断题：下列哪些属于哲学与思辨的数字化学习方式？
 - 开放性问题：请描述你如何利用数字化工具提升哲学或批判性思维能力。
@@ -674,7 +674,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.13. 哲学与思辨的跨学科融合国际化递归扩展 Interdisciplinary Integration of Philosophy & Critical Thinking: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.13.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **跨学科融合的定义 Definition of Interdisciplinary Integration**
   - 美国：Interdisciplinary integration involves combining knowledge and methods from different disciplines to address complex questions and foster deeper understanding.
@@ -684,7 +684,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **哲学与科学、数学、社会学等学科的融合 Integration of Philosophy with Science, Mathematics, Sociology, etc.**
   - 美国/英国：Philosophy provides foundational thinking skills that enhance inquiry and reasoning in science, mathematics, and social studies.
 
-#### 2. 案例与活动 Cases & Activities
+#### 10.13.2. 案例与活动 Cases & Activities
 
 - 美国：科学伦理跨学科项目（Interdisciplinary projects on science ethics）
 - 英国：哲学与数学结合的逻辑推理活动（Logic reasoning activities combining philosophy and mathematics）
@@ -693,7 +693,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：哲学与历史、艺术的融合课程（Integrated courses of philosophy with history and art）
 - 挪威：环境伦理与可持续发展跨学科活动（Interdisciplinary activities on environmental ethics and sustainability）
 
-#### 3. 能力训练 Skills Training
+#### 10.13.3. 能力训练 Skills Training
 
 - 判断题：下列哪些属于跨学科融合的学习方式？
 - 开放性问题：请举例说明哲学思维如何帮助你在其他学科中解决问题。
@@ -708,7 +708,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 
 ### 10.14. 哲学与思辨的教师与家长支持国际化递归扩展 Teacher & Parent Support for Philosophy & Critical Thinking: International Recursive Expansion
 
-#### 1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
+#### 10.14.1. 知识点与权威定义 Knowledge Points & Authoritative Definitions
 
 - **教师支持的定义 Definition of Teacher Support**
   - 美国：Teacher support refers to the guidance, resources, and strategies provided by educators to foster students’ philosophical and critical thinking skills.
@@ -718,7 +718,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - **家长支持的定义 Definition of Parent Support**
   - 美国/英国：Parent support involves encouraging children to ask questions, discuss ideas at home, and participate in activities that develop reasoning and reflection.
 
-#### 2. 案例与活动 Cases & Activities
+#### 10.14.2. 案例与活动 Cases & Activities
 
 - 美国：教师组织哲学讨论小组（Teachers organizing philosophy discussion groups）
 - 英国：家长与孩子共同参与批判性思维游戏（Parents and children playing critical thinking games together）
@@ -727,7 +727,7 @@ This subtopic will be recursively expanded, integrating international textbooks 
 - 法国：家长参与学校哲学课程开放日（Parents attending open days for philosophy classes）
 - 挪威：家庭辩论赛与思辨对话（Family debates and reflective dialogues）
 
-#### 3. 能力训练 Skills Training
+#### 10.14.3. 能力训练 Skills Training
 
 - 判断题：下列哪些属于有效的教师或家长支持方式？
 - 开放性问题：请描述你理想中的家校协作支持哲学与思辨教育的方式。
